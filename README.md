@@ -41,21 +41,23 @@ Each folder represents a **day-wise or topic-wise learning module** and usually 
 - `notes.md` – Clear and concise explanations of concepts learned
 - A demo Spring Boot project – Practical implementation of those concepts
 
-Example structure:
-Day-03-REST-Controllers/
-├── notes.md
-└── rest-api-demo/
-
 ---
 
 ## 📚 Learning Progress
 
-| Day / Topic | Description | Status |
-|------------|------------|--------|
-| Day 01 | Spring Boot Introduction & Setup | Completed ✅ |
-| Day 02 | Maven & Project Structure | Completed ✅ |
-| Day 03 | REST Controllers & Request Mapping | In Progress ⏳ |
-| Upcoming | JPA, Database Integration, Security | Planned 🔜 |
+| Modules   | Description                                  | Status        |
+|-----------|----------------------------------------------|---------------|
+| Module 1  | Quickstart                                   | Completed ✅  |
+| Module 2  | Maven                                        | Completed ✅  |
+| Module 3  | Spring Framework & Boot                      | Completed ✅  |
+| Module 4  | Dependency Injection                         | Completed ✅  |
+| Module 5  | Configuration                                | Completed ✅  |
+| Module 6  | Databases Part 1 - Basics                    | In Progress ⏳|
+| Module 7  | Databases Part 2 - Spring JDBC (SQL)         | Planned 🔜    |
+| Module 8  | Databases Part 3 - Spring Data JPA (Objects) | Planned 🔜    |
+| Module 9  | Jackson & JSON                               | Planned 🔜    |
+| Module 10 | Build a REST API                             | Planned 🔜    |
+| Module 11 | Deployment                                   | Planned 🔜    | 
 
 (This table will be updated as learning progresses.)
 
