@@ -1,4 +1,4 @@
-# spring-boot-learning-journey
+# Spring Boot Learning Journey 🌿
 Daily hands-on learning and practice of Spring Boot for building strong Java backend fundamentals.
 
 Welcome to my **Spring Boot Learning Journey**.  
